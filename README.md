@@ -1,3 +1,4 @@
+## 🎵 React Native Music Player App
 
 ## ✨ Features
 - 🎧 Audio Playback – Play, pause, and skip tracks seamlessly.
