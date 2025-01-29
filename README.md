@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## ✨ Features
+- 🎧 Audio Playback – Play, pause, and skip tracks seamlessly.
+- 📂 Playlist Management – Create and manage custom playlists.
+- 🌙 Dark Theme – Enjoy a visually stunning dark mode UI.
+- 🎛 Media Controls – Interactive UI with a smooth user experience.
+- 📱 Bottom Tab Navigation – Effortlessly switch between screens.
+## 📦 Tech Stack
+- React Native & Expo
+- React Navigation
+- Expo-AV (Audio Playback)
+- Async Storage (Local Data Storage)
+## Authors
 
-## Get started
+- [@hamza2070](https://www.github.com/hamza2070)
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## Installation
 
-2. Start the app
+Install my-project with npm
 
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+Clone the repo:
 ```bash
-npm run reset-project
+git clone https://github.com/your-username/music-player-app.git
 ```
+```bash
+cd music-player-app
+```
+Install dependencies:
+```bash
+npm install
+```
+Run the app:
+```bash
+npx expo start
+```
+    
+## Screenshots
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+![Player](https://github.com/user-attachments/assets/3f59c59d-07c5-40b5-a284-8177774b11f9)
 
-## Learn more
+![Playlists](https://github.com/user-attachments/assets/e9d12b3c-a21c-42d7-ae80-439fa7f09282)
 
-To learn more about developing your project with Expo, look at the following resources:
+![AudioList](https://github.com/user-attachments/assets/a3d828ea-3352-43d2-9cad-324ef2332a81)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
